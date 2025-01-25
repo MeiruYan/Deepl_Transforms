@@ -19,8 +19,6 @@ The following core Python packages are required to run the script:
 - `numpy==1.25.2`: For numerical computations.
 - `pandas==2.2.3`: For data manipulation and analysis.
 - `scikit-learn==1.3.0`: For data preprocessing, scaling, and evaluation metrics.
-- `matplotlib==3.9.2`: For visualization of training and validation loss curves.
-- `seaborn==0.13.2`: For additional visualizations (optional).
 
 You can install these packages using:
 ```bash
